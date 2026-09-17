@@ -1,48 +1,29 @@
-Hi 👋, I'm Sanjeeda Islam
+# Sanjeeda Islam
 
-👩‍💻 About Me
+## About Me
 
-• 🎓 CSE Student with a strong interest in Mobile App Development
+Hi, I am a Computer Science and Engineering student and a future mobile app and backend developer. My primary focus is building cross-platform applications using Flutter. I am passionate about creating clean UI designs, learning about system architecture, and building responsive apps that solve real-world problems.
 
-• 📱 Focused on building cross-platform apps using Flutter
+## Technical Skills
 
-• 🚀 Passionate about clean UI, performance, and user experience
+* **Languages:**
+  * Dart
+  * C++
+  * C
 
-🔭 Current Work
+* **Frameworks:**
+  * Flutter
 
-• Developing Flutter-based applications
+* **Tools & Technologies:**
+  * Git & GitHub
+  * Firebase
+  * Visual Studio Code
+  * Android Studio
+  * Canva & CapCut (Design & Media)
 
-• Working on a Task Manager App with API integration
+## Contact Me
 
-🌱 Currently Learning
+I am always eager to learn new technologies and collaborate on interesting projects. Feel free to connect with me:
 
-• Advanced Flutter concepts
-
-• State Management (Provider / Riverpod)
-
-• REST API & Backend Integration
-
-🛠️ Skills & Tools
-
-• Languages: Dart, C
-
-• Frameworks: Flutter
-
-• Tools: Git, GitHub, VS Code
-
-🤝 Collaboration
-
-• Open to collaborating on Flutter & Mobile App projects
-
-📫 Contact
-
-• Email: sanjidamoumou@gmail.com
-
-⚡ Interests
-
-• UI/UX Design
-
-• Problem Solving
-
-• Learning new technologies
-
+* **Email:** apnar_email@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/sanjeeda-islam-aa8b6a347/
